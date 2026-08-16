@@ -1,7 +1,7 @@
 # 云边端工业智能体平台
 
 > 基于 [airockchip/clawchips](https://github.com/airockchip/clawchips) 架构的流程制造工业智能体平台
-> 面向贵州磷化（磷化工）、遵义铝业（电解铝）等流程制造场景
+> 面向磷化工、电解铝等流程制造场景
 
 ## 项目简介
 
