@@ -133,28 +133,28 @@ DEFAULT_CONFIG_YAML = """
 devices:
   - name: edge-phosphorus-01
     hardware: RK3588+RK1828
-    location: 瓮福江山氯碱车间
+    location: 氯碱车间
     npu_cores: 3
     memory_mb: 16384
     max_concurrency: 8
 
   - name: edge-phosphorus-02
     hardware: RK3588+RK1828
-    location: 瓮福江山黄磷车间
+    location: 黄磷车间
     npu_cores: 3
     memory_mb: 16384
     max_concurrency: 8
 
   - name: edge-aluminum-01
     hardware: RK3588+RK1828
-    location: 遵义铝业电解一车间
+    location: 电解一车间
     npu_cores: 3
     memory_mb: 16384
     max_concurrency: 8
 
   - name: edge-aluminum-02
     hardware: RK3588+RK1828
-    location: 遵义铝业蒸发工序
+    location: 蒸发工序
     npu_cores: 3
     memory_mb: 16384
     max_concurrency: 8
