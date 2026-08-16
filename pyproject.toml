@@ -1,0 +1,8 @@
+[project]
+name = "industrial-agent-platform"
+version = "1.0.0"
+description = "云边端工业智能体平台 - 基于 ClawChips 架构的流程制造解决方案"
+requires-python = ">=3.10"
+
+[project.scripts]
+industrial-agent = "industrial_agent.main:main"
